@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="my_drawings.svg"
+   sodipodi:docname="header.svg"
    inkscape:export-filename="/home/f4ww4z/Desktop/GCI-2017/openmrs-template-gci/header.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -758,7 +758,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1451"
-       d="M 310.22124,101.39665 H 239.2768"
+       d="M 310.22124,133.67584 H 239.2768"
        style="fill:none;stroke:#00463f;stroke-width:1.04864132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.45575226" />
   </g>
 </svg>
